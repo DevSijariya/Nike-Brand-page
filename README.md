@@ -1,10 +1,27 @@
-# Getting Started with Create React App
+# Nike Shoes Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple frontend page built using React.js as part of a learning exercise. The page displays a Nike logo, an image of one shoe, and some basic content.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Nike Logo:** A Nike brand logo displayed prominently on the page.
+- **Shoe Image:** An image of a Nike shoe to showcase the product.
+- **Content:** Some placeholder content to describe the product (e.g., "Nike shoes are designed for comfort and style").
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/DevSijariya/Nike-Brand-page.git
+
+2. Navigate to the project directory:
+     `cd Nike-brand-Page`
+   
+4. Install the dependencies:
+     `npm install`
 
 ### `npm start`
 

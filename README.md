@@ -18,12 +18,15 @@ To run this project locally, follow these steps:
    git clone https://github.com/DevSijariya/Nike-Brand-page.git
 
 2. Navigate to the project directory:
-     `cd Nike-brand-Page`
+     ```bash
+     cd Nike-brand-Page
    
-4. Install the dependencies:
-     `npm install`
-
-### `npm start`
+3. Install the dependencies:
+     ```bash
+     npm install
+4. Run the app
+   ```bash
+   npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
